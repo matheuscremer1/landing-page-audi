@@ -7,8 +7,18 @@ Small screens, laptops – 769px — 1024px. */
     padding: 0px;
 }
 @media screen and (max-width: 480px){
+    div#logo{
+        background-image: url(../imagens/logo-pp.png);
+        background-repeat: no-repeat;
+        height: 40px;
+        width: 80px;
+        margin-top: 5px;
+        margin-left: 10px;
+        
+    }
     nav#menu{
         display: flex;
+        width: 350px;
     }
     nav#footer > ul, li {
         padding: 2px;
