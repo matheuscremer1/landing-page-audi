@@ -109,9 +109,7 @@ Small screens, laptops – 769px — 1024px. */
         font-size: 1em;
         margin-bottom: 5px;
     }
-    div#part5{
-        height: 500px;
-    }
+   
 }
 @media screen and (min-width: 481px) and (max-width: 768px){
 #nome{
